@@ -41,7 +41,7 @@
     <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
 </p>-->
-![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)
+
 ## My Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kvble&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kvble&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
